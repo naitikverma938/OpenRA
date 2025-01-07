@@ -1,4 +1,4 @@
-# OpenRA
+# Open
 
 A Libre/Free Real Time Strategy game engine supporting early Westwood classics.
 
